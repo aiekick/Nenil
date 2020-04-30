@@ -31,3 +31,4 @@
 *.out
 *.app
 /build/.vs/Nenil/v15/.suo
+/build
