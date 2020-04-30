@@ -1,0 +1,19 @@
+[submodule "3rdparty/ctools"]
+	path = 3rdparty/ctools
+	url = https://github.com/aiekick/cTools.git
+[submodule "3rdparty/glfw"]
+	path = 3rdparty/glfw
+	url = https://github.com/glfw/glfw
+[submodule "3rdparty/ImGuiFileDialog"]
+	path = 3rdparty/ImGuiFileDialog
+	url = https://github.com/aiekick/ImGuiFileDialog.git
+	branch = detail_view_mode
+[submodule "3rdparty/volk"]
+	path = 3rdparty/volk
+	url = https://github.com/zeux/volk.git
+[submodule "3rdparty/tinyxml2"]
+	path = 3rdparty/tinyxml2
+	url = https://github.com/leethomason/tinyxml2.git
+[submodule "3rdparty/dirent"]
+	path = 3rdparty/dirent
+	url = https://github.com/tronkko/dirent.git
