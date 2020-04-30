@@ -17,3 +17,6 @@
 [submodule "3rdparty/dirent"]
 	path = 3rdparty/dirent
 	url = https://github.com/tronkko/dirent.git
+[submodule "3rdparty/imgui"]
+	path = 3rdparty/imgui
+	url = https://github.com/aiekick/imgui.git
